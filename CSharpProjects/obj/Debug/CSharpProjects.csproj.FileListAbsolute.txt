@@ -1,0 +1,8 @@
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\obj\Debug\CSharpProjects.csprojAssemblyReference.cache
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\obj\Debug\CSharpProjects.csproj.CoreCompileInputs.cache
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\bin\Debug\CSharpProjects.exe.config
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\bin\Debug\CSharpProjects.exe
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\bin\Debug\CSharpProjects.pdb
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\obj\Debug\CSharpProjects.exe
+c:\users\s189078\source\repos\CSharpProjects\CSharpProjects\obj\Debug\CSharpProjects.pdb
+C:\Users\s189078\source\repos\CSharpProjects\CSharpProjects\bin\Debug\raylib.dll

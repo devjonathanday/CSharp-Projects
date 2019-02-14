@@ -1,0 +1,7 @@
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\bin\Debug\TextChat.exe.config
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\bin\Debug\TextChat.exe
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\bin\Debug\TextChat.pdb
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\obj\Debug\TextChat.csprojAssemblyReference.cache
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\obj\Debug\TextChat.csproj.CoreCompileInputs.cache
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\obj\Debug\TextChat.exe
+C:\Users\s189078\source\repos\CSharpProjects\TextChat\obj\Debug\TextChat.pdb

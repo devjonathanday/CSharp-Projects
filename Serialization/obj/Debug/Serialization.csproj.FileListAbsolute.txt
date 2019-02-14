@@ -1,0 +1,7 @@
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\bin\Debug\Serialization.exe
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\bin\Debug\Serialization.pdb
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\obj\Debug\Serialization.exe
+C:\Users\s189078\source\repos\CSharpProjects\Serialization\obj\Debug\Serialization.pdb
